@@ -1,4 +1,4 @@
-package Collage;
+package College;
 
 //Java Program to Illustrate books class
 //To Do all the Operations related to Books such as
